@@ -1,0 +1,8 @@
+# No external packages required.
+# Uses Python standard library:
+# socket
+# threading
+# tkinter
+# sqlite3
+# hashlib
+# json
